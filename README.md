@@ -1,24 +1,12 @@
-# README
+# Depot Project - AWDwR v7
+An example shopping cart setup in Rails 7
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+This project is based on the Depot project found in the book Agile Web Development With Rails 7
 
-Things you may want to cover:
+## Notes
+This is to test out Rails 7 features starting with a clean slate.... and it has been 7 years since I've touched Rails.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Currently using:
+- Ruby 3.2.2
+- Rails 7.1.1
