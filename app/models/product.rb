@@ -4,6 +4,5 @@ class Product < ApplicationRecord
   validates :title, uniqueness: true
   validates :image_url, allow_blank: true, format: {
     with: %r{\.(gif|jpg|png)\z}i
-
   }
 end

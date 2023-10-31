@@ -3,11 +3,18 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: MyString.jpg
   price: 9.99
 
 two:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: MyString.jpg
   price: 9.99
+
+ruby:
+  title: Programming Ruby 1.9
+  description: 
+    Ruby was a fast growing language and this old book teaches it to you
+  price: 9.99
+  image_url: ruby.jpg
